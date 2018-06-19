@@ -7,3 +7,9 @@ d,dl,dl,dl,d
 
 
 ldl;d,lddl
+dmdmdd
+
+dl;d;dld
+
+
+dl;dd;l
